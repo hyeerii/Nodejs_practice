@@ -1,1 +1,8 @@
-# Nodejs_practice
+나의 Nodejs 연습
+====================
+<생활코딩>사이트의 web2-nodejs 강의  
+  
+'nodejs-mysql' 을 듣고 스스로 수행할 과제
+- 검색 기능
+- 정렬 기능
+- 페이지 기능
